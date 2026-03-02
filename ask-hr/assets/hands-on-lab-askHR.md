@@ -196,6 +196,10 @@ Show me my profile data.
 
 When asked for your name, you should choose a name of one of the company's employees (e.g. "Victoria Baker"). Find the employees list by downloading the [Users_Data](/ask-hr/assets/users_data.xlsx) file.
 
+```
+ictoria Baker
+```
+
 After that, ask the agent to update your job title.
 
 ```
