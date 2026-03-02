@@ -233,6 +233,7 @@ Notice two things:
 <img width="1188" height="1430" alt="image" src="https://github.com/user-attachments/assets/0865357b-d5d9-40a6-a6d6-3d65e850c31a" />
 </div>
 
+Now, try to rewrite your request by adjusting your time off dates
 ```
 I got it wrong. Please adjust the dates to 2-Mar-2026 to 4-Mar-2026
 ```
