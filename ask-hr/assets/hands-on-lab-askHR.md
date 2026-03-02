@@ -221,6 +221,25 @@ Request the time off by sending the message below:
 ```
 Request time off
 ```
+```
+2-Mar-2026 to 4-Dec-2026
+```
+
+Notice two things: 
+1. The agent understand the format you are introducing and "transforms it" to a common and readable date.
+2. 2. The agent uses his LLM (GPT-OSS-120b) to calculate the number of days requested and compare against the number of days available in the user's profile
+
+<div align="center">
+<img width="1188" height="1430" alt="image" src="https://github.com/user-attachments/assets/0865357b-d5d9-40a6-a6d6-3d65e850c31a" />
+</div>
+
+```
+I got it wrong. Please adjust the dates to 2-Mar-2026 to 4-Mar-2026
+```
+
+<div align="center">
+<img width="1166" height="860" alt="image" src="https://github.com/user-attachments/assets/a4c141ed-15e9-4ee5-ba0d-9f45402faaf3" />
+</div>
 
 <div align="center">
   <img width="1550" height="1186" alt="image" src="https://github.com/user-attachments/assets/cca08ba8-68c2-4e9f-9555-31961ab9f08f" />
