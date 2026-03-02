@@ -241,11 +241,7 @@ I got it wrong. Please adjust the dates to 2-Mar-2026 to 4-Mar-2026
 <img width="1166" height="860" alt="image" src="https://github.com/user-attachments/assets/a4c141ed-15e9-4ee5-ba0d-9f45402faaf3" />
 </div>
 
-<div align="center">
-  <img width="1550" height="1186" alt="image" src="https://github.com/user-attachments/assets/cca08ba8-68c2-4e9f-9555-31961ab9f08f" />
-</div>
 
-Please note that your start and end date may differ from the image presented above.
 
 Check again your profile data to see all the changes you made.
 ```
